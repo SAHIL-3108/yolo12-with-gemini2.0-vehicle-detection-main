@@ -1,0 +1,154 @@
+Timestamp | Track ID | Vehicle Type | Vehicle Color | Vehicle Company
+--------------------------------------------------------------------------------
+2025-03-08_10-17-50 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-17-50 | Track ID: 1 | Car | Gray | Mercedes-Benz
+2025-03-08_10-17-53 | Track ID: 3 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-17-53 | Track ID: 3 | Car (Smart) | Black | Smart
+2025-03-08_10-17-56 | Track ID: 9 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-17-56 | Track ID: 9 | Car | Red | Renault
+2025-03-08_10-19-25 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-25 | Track ID: 1 | Hatchback | White | Hyundai
+2025-03-08_10-19-25 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-25 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-19-27 | Track ID: 126 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-27 | Track ID: 126 | Jeepney | Blue | Unknown
+2025-03-08_10-19-27 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-27 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-19-27 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-27 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-19-28 | Track ID: 5 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-28 | Track ID: 5 | Car | White | Maruti
+2025-03-08_10-19-28 | Track ID: 97 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-28 | Track ID: 97 | SUV (Magnite) | Black | Nissan
+2025-03-08_10-19-30 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-30 | Track ID: 11 | Car | White | Mahindra
+2025-03-08_10-19-30 | Track ID: 265 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-30 | Track ID: 265 | MUV | White | Mahindra
+2025-03-08_10-19-31 | Track ID: 356 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-31 | Track ID: 356 | Car | White | Mahindra
+2025-03-08_10-19-25 | Track ID: 6 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-25 | Track ID: 6 | Tricycle | Blue and White | Unknown
+2025-03-08_10-19-34 | Track ID: 17 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-34 | Track ID: 17 | Wagon R | White | Suzuki
+2025-03-08_10-19-35 | Track ID: 470 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-35 | Track ID: 470 | Hatchback | Red | Tata
+2025-03-08_10-19-35 | Track ID: 86 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-19-35 | Track ID: 86 | Truck | Brown | Eicher
+2025-03-08_10-20-34 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-34 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-20-34 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-34 | Track ID: 1 | Car | White | Hyundai
+2025-03-08_10-20-35 | Track ID: 6 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-35 | Track ID: 6 | Auto rickshaw | Blue and white | Unknown
+2025-03-08_10-20-36 | Track ID: 126 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-36 | Track ID: 126 | Jeepney | Blue | Not identifiable
+2025-03-08_10-20-37 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-37 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-20-37 | Track ID: 5 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-37 | Track ID: 5 | Car | White | Maruti
+2025-03-08_10-20-37 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-37 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-20-38 | Track ID: 97 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-38 | Track ID: 97 | SUV (Magnite) | Black | Nissan
+2025-03-08_10-20-40 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-40 | Track ID: 11 | MUV (Mahindra Bolero Neo) | White | Mahindra
+2025-03-08_10-20-40 | Track ID: 265 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-40 | Track ID: 265 | Car | White | Mahindra
+2025-03-08_10-20-40 | Track ID: 356 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-20-40 | Track ID: 356 | SUV | White | Mahindra
+2025-03-08_10-21-07 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-07 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-21-07 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-07 | Track ID: 1 | Car | White | Hyundai
+2025-03-08_10-21-08 | Track ID: 6 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-08 | Track ID: 6 | Jeepney | Blue and White | Unknown
+2025-03-08_10-21-09 | Track ID: 126 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-09 | Track ID: 126 | Jeepney | Blue | Unknown
+2025-03-08_10-21-10 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-10 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-21-35 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-35 | Track ID: 1 | Car | White | Hyundai
+2025-03-08_10-21-35 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-35 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-21-37 | Track ID: 126 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-37 | Track ID: 126 | Jeepney | Blue | Unknown
+2025-03-08_10-21-37 | Track ID: 6 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-37 | Track ID: 6 | Jeepney | Blue | Unknown
+2025-03-08_10-21-38 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-38 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-21-38 | Track ID: 5 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-38 | Track ID: 5 | Car | White | Maruti
+2025-03-08_10-21-38 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-38 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-21-40 | Track ID: 97 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-40 | Track ID: 97 | SUV (Qashqai) | Black | Nissan
+2025-03-08_10-21-41 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-21-41 | Track ID: 11 | Van | White | Mahindra
+2025-03-08_10-22-16 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-16 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-22-16 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-16 | Track ID: 1 | Car | White | Hyundai
+2025-03-08_10-22-19 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-19 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-22-19 | Track ID: 6 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-19 | Track ID: 6 | Jeepney | Blue and White | None visible
+2025-03-08_10-22-19 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-19 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-22-22 | Track ID: 97 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-22 | Track ID: 97 | SUV | Black | Nissan
+2025-03-08_10-22-22 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-22 | Track ID: 11 | Car | White | Mahindra
+2025-03-08_10-22-22 | Track ID: 265 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-22 | Track ID: 265 | MUV | White | Mahindra
+2025-03-08_10-22-22 | Track ID: 356 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-22-22 | Track ID: 356 | MUV (Mahindra Bolero Neo) | White | Mahindra
+2025-03-08_10-23-05 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-05 | Track ID: 1 | Car | White | Hyundai
+2025-03-08_10-23-05 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-05 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-23-08 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-08 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-23-08 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-08 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-23-10 | Track ID: 265 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-10 | Track ID: 265 | SUV | White | Mahindra
+2025-03-08_10-23-10 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-10 | Track ID: 11 | Car | White | Mahindra
+2025-03-08_10-23-11 | Track ID: 356 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-11 | Track ID: 356 | Bolero Neo | White | Mahindra
+2025-03-08_10-23-14 | Track ID: 17 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-14 | Track ID: 17 | Wagon R | White | Suzuki
+2025-03-08_10-23-14 | Track ID: 86 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-23-14 | Track ID: 86 | Truck | Brown | Eicher
+2025-03-08_10-29-25 | Track ID: 15 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-25 | Track ID: 15 | Auto Rickshaw | White and Blue | Bajaj
+2025-03-08_10-29-25 | Track ID: 1 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-25 | Track ID: 1 | Hatchback | White | Hyundai
+2025-03-08_10-29-28 | Track ID: 117 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-28 | Track ID: 117 | Truck | Brown | Eicher
+2025-03-08_10-29-28 | Track ID: 14 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-28 | Track ID: 14 | Truck | Brown | Eicher
+2025-03-08_10-29-31 | Track ID: 265 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-31 | Track ID: 265 | MUV | White | Mahindra
+2025-03-08_10-29-31 | Track ID: 11 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-31 | Track ID: 11 | Car | White | Mahindra
+2025-03-08_10-29-32 | Track ID: 356 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-32 | Track ID: 356 | Bolero Neo | White | Mahindra
+2025-03-08_10-29-35 | Track ID: 17 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-35 | Track ID: 17 | Wagon R | White | Maruti Suzuki
+2025-03-08_10-29-36 | Track ID: 86 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-36 | Track ID: 86 | Truck | Brown | Eicher
+2025-03-08_10-29-39 | Track ID: 29 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-39 | Track ID: 29 | WagonR | Silver | Maruti Suzuki
+2025-03-08_10-29-39 | Track ID: 669 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-39 | Track ID: 669 | Truck | Brown | Unknown
+2025-03-08_10-29-44 | Track ID: 255 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-44 | Track ID: 255 | Car | Red | Tata
+2025-03-08_10-29-48 | Track ID: 668 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-48 | Track ID: 668 | Car | Silver | Maruti Suzuki
+2025-03-08_10-29-48 | Track ID: 893 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-48 | Track ID: 893 | Truck | Blue, White | Tata
+2025-03-08_10-29-49 | Track ID: 991 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-49 | Track ID: 991 | Bus | Blue and White | Tata
+2025-03-08_10-29-55 | Track ID: 730 | Vehicle Type(Name of Vehicle) | Vehicle Color | Vehicle Company
+2025-03-08_10-29-55 | Track ID: 730 | Car | White | Mahindra
